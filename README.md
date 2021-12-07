@@ -42,6 +42,7 @@ Para evaluar tu código e identificar posibles mejoras debes instalar y utilizar
 - Línea de comando
 
 ## Entregable
+<img src ="/badges/rubycritic_badge_score.svg">
 - Código fuente en Github
 
 ## Resources
